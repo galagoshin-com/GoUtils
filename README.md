@@ -190,7 +190,7 @@ if err == nil {
 mp = map[string]any{
 	"key": "value",
 }
-jsn, err := json.Decode(json.Json("{\"key\": \"value\"}"))
+jsn, err := json.Encode(mp)
 if err == nil {
 	todo(string(jsn))
 }
