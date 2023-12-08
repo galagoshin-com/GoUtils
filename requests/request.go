@@ -3,7 +3,7 @@ package requests
 import (
 	"bytes"
 	"fmt"
-	"github.com/Galagoshin/GoLogger/logger"
+	"github.com/galagoshin-com/GoLogger/logger"
 	"io/ioutil"
 	"net/http"
 	"net/url"

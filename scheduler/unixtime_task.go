@@ -1,7 +1,7 @@
 package scheduler
 
 import (
-	"github.com/Galagoshin/GoLogger/logger"
+	"github.com/galagoshin-com/GoLogger/logger"
 	"time"
 )
 

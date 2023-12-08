@@ -2,7 +2,7 @@ package configs
 
 import (
 	"fmt"
-	"github.com/Galagoshin/GoLogger/logger"
+	"github.com/galagoshin-com/GoLogger/logger"
 	"strconv"
 	"strings"
 )

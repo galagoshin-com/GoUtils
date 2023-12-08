@@ -2,8 +2,8 @@ package configs
 
 import (
 	"fmt"
-	"github.com/Galagoshin/GoLogger/logger"
-	"github.com/Galagoshin/GoUtils/files"
+	"github.com/galagoshin-com/GoLogger/logger"
+	"github.com/galagoshin-com/GoUtils/files"
 	"os"
 )
 

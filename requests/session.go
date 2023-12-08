@@ -2,7 +2,7 @@ package requests
 
 import (
 	"fmt"
-	"github.com/Galagoshin/GoLogger/logger"
+	"github.com/galagoshin-com/GoLogger/logger"
 	"net/http"
 )
 

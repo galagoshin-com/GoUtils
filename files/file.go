@@ -2,7 +2,7 @@ package files
 
 import (
 	"errors"
-	"github.com/Galagoshin/GoLogger/logger"
+	"github.com/galagoshin-com/GoLogger/logger"
 	"io"
 	"os"
 )
